@@ -1,14 +1,14 @@
 # Data-Analysis-Trial
 
-** Trial Single
+## Trial Single
 
 This ipynb contains a single, executable script for a trial analysis.
 
-**Trial Breakdown:**
+##Trial Breakdown:**
 
 For a more detailed understanding, the trial analysis is divided into blocks
 
-**Key Analyses:**
+##Key Analyses:**
 
 The trial analysis includes visualizations and insights related to:
 
