@@ -4,7 +4,7 @@
 
 This ipynb contains a single, executable script for a trial analysis.
 
-## Trial Breakdown:**
+## Trial Breakdown:
 
 For a more detailed understanding, the trial analysis is divided into blocks
 
