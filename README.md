@@ -8,7 +8,7 @@ This ipynb contains a single, executable script for a trial analysis.
 
 For a more detailed understanding, the trial analysis is divided into blocks
 
-## Key Analyses:**
+## Key Analyses:
 
 The trial analysis includes visualizations and insights related to:
 
